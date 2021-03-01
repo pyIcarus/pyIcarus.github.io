@@ -23,4 +23,4 @@ My first exposure to the field of Data Science came out of necessity. I was give
 
 Eventually, more complex problems required equally complex solutions, and to make sense of these real-world problems Python and SQL became my tools of choice. I look back at my experiences and often ponder whether I should have pursued a career in Computer Science from the beginning. These thoughts quickly fade away when I remind myself of the privileges my diverse experiences have afforded me. My passion for making sense of key performance indicators, developing unified pipelines to a single source of truth, and sketching the picture of true business intelligence is all a culmination of the past experiences that make me the person I am today. 
 
-My current adventures involve pursuing my Master of Science in Data Analytics at the University of Central Florida, working full-time as a Clinical Data Analyst, and freelancing for jobs I find interesting at UpWork.
+My current adventures involve pursuing a Masters of Science in Data Analytics at the University of Central Florida, working full-time as a Clinical Data Analyst, and freelancing for jobs I find interesting at UpWork.
