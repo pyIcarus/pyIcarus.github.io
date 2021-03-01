@@ -16,8 +16,10 @@ author: J. Alexander Batista
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Other Links:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
