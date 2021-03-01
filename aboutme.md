@@ -9,7 +9,7 @@ My name is J. Alexander Batista. I have the following skill sets:
 - Intensive Care Unit (ICU) Nurse
 - I can write clean Python code
 - I can build normalized SQL database structures for transational and warehousing systems
-- I'm humble, hungry, and smart (Lencioni, P. (2016). The Ideal Team Player.)
+- I'm humble, hungry, and smart [Lencioni, P. (2016). The Ideal Team Player.]
 
 What else do you need?
 
